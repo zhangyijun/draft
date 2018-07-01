@@ -1,0 +1,19 @@
+{
+  "name": "smart_contracts",
+  "version": "1.0.0",
+  "description": "smart contracts",
+  "main": "truffle-config.js",
+  "dependencies": {
+    "web3": "0.20.5",
+    "truffle-contract": "3.0.4",
+    "bignumber.js": "2.0.7"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "zhangyijun",
+  "license": "ISC"
+}
